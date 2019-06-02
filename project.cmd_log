@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/juhyeong/Xilinx_ISE_DS_Lin_14.7_1015_1/working_directory/modeling/final_project/project.xst" -ofn "/home/juhyeong/Xilinx_ISE_DS_Lin_14.7_1015_1/working_directory/modeling/final_project/project.syr" 
